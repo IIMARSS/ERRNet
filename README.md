@@ -1,3 +1,3 @@
 # HUNet
 
-The code is still writing.
+Our paper is still writing.
