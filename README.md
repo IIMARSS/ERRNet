@@ -1,3 +1,3 @@
-# Ret_HU_Net
+# ERRNet
 
-Our paper is still writing.
+Our paper has been submitted, the code will be released after acceptance.
