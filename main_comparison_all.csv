@@ -1,0 +1,115 @@
+﻿dataset,metric,material,method,mean,std,n_runs
+Samson,SAD,Soil,MiSiCNet,0.709,0.0014,5
+Samson,SAD,Soil,ADMM,0.0736,0.0017,5
+Samson,SAD,Soil,EGU-Net,0.2273,0.0707,5
+Samson,SAD,Soil,SVACA,0.1493,0.0441,5
+Samson,SAD,Soil,SRViT,0.1196,0.0174,5
+Samson,SAD,Soil,ERRNet,0.0126,0.0149,5
+Samson,SAD,Tree,MiSiCNet,0.1374,0.0002,5
+Samson,SAD,Tree,ADMM,0.0605,0.0026,5
+Samson,SAD,Tree,EGU-Net,0.3301,0.0746,5
+Samson,SAD,Tree,SVACA,0.0411,0.0068,5
+Samson,SAD,Tree,SRViT,0.0642,0.0037,5
+Samson,SAD,Tree,ERRNet,0.0402,0.0032,5
+Samson,SAD,Water,MiSiCNet,0.5672,0.0007,5
+Samson,SAD,Water,ADMM,0.2572,0.0003,5
+Samson,SAD,Water,EGU-Net,0.7297,0.1036,5
+Samson,SAD,Water,SVACA,0.4927,0.0977,5
+Samson,SAD,Water,SRViT,0.1785,0.0434,5
+Samson,SAD,Water,ERRNet,0.0526,0.0072,5
+Samson,Mean SAD,All,MiSiCNet,0.4712,0.0002,5
+Samson,Mean SAD,All,ADMM,0.1304,0.0002,5
+Samson,Mean SAD,All,EGU-Net,0.429,0.034,5
+Samson,Mean SAD,All,SVACA,0.2277,0.0337,5
+Samson,Mean SAD,All,SRViT,0.1208,0.0196,5
+Samson,Mean SAD,All,ERRNet,0.0351,0.0054,5
+Samson,RMSE,All,MiSiCNet,0.2975,0.0013,5
+Samson,RMSE,All,ADMM,0.2406,0.0063,5
+Samson,RMSE,All,EGU-Net,0.2996,0.1227,5
+Samson,RMSE,All,SVACA,0.2996,0.0358,5
+Samson,RMSE,All,SRViT,0.235,0.0103,5
+Samson,RMSE,All,ERRNet,0.0361,0.0021,5
+Jasper Ridge,SAD,Road,MiSiCNet,0.2281,0.0002,5
+Jasper Ridge,SAD,Road,ADMM,0.1908,0.0112,5
+Jasper Ridge,SAD,Road,EGU-Net,0.3653,0.0532,5
+Jasper Ridge,SAD,Road,SVACA,0.143,0.0423,5
+Jasper Ridge,SAD,Road,SRViT,0.1584,0.0029,5
+Jasper Ridge,SAD,Road,ERRNet,0.1083,0.0183,5
+Jasper Ridge,SAD,Soil,MiSiCNet,0.5244,0.0004,5
+Jasper Ridge,SAD,Soil,ADMM,0.27,0.0096,5
+Jasper Ridge,SAD,Soil,EGU-Net,0.8564,0.0281,5
+Jasper Ridge,SAD,Soil,SVACA,0.5051,0.0945,5
+Jasper Ridge,SAD,Soil,SRViT,0.3044,0.0096,5
+Jasper Ridge,SAD,Soil,ERRNet,0.0746,0.0312,5
+Jasper Ridge,SAD,Water,MiSiCNet,0.2046,0.0006,5
+Jasper Ridge,SAD,Water,ADMM,0.3134,0.0606,5
+Jasper Ridge,SAD,Water,EGU-Net,0.341,0.0752,5
+Jasper Ridge,SAD,Water,SVACA,0.2569,0.0805,5
+Jasper Ridge,SAD,Water,SRViT,0.1548,0.0085,5
+Jasper Ridge,SAD,Water,ERRNet,0.1091,0.0267,5
+Jasper Ridge,SAD,Tree,MiSiCNet,0.2374,0.0001,5
+Jasper Ridge,SAD,Tree,ADMM,0.5633,0.0236,5
+Jasper Ridge,SAD,Tree,EGU-Net,0.3319,0.0718,5
+Jasper Ridge,SAD,Tree,SVACA,0.4334,0.1181,5
+Jasper Ridge,SAD,Tree,SRViT,0.7437,0.1495,5
+Jasper Ridge,SAD,Tree,ERRNet,0.1214,0.0783,5
+Jasper Ridge,Mean SAD,All,MiSiCNet,0.2986,0.0002,5
+Jasper Ridge,Mean SAD,All,ADMM,0.3344,0.0088,5
+Jasper Ridge,Mean SAD,All,EGU-Net,0.4736,0.024,5
+Jasper Ridge,Mean SAD,All,SVACA,0.3346,0.0245,5
+Jasper Ridge,Mean SAD,All,SRViT,0.3403,0.0381,5
+Jasper Ridge,Mean SAD,All,ERRNet,0.1033,0.0287,5
+Jasper Ridge,RMSE,All,MiSiCNet,0.1586,0.0001,5
+Jasper Ridge,RMSE,All,ADMM,0.1906,0.0062,5
+Jasper Ridge,RMSE,All,EGU-Net,0.2524,0.0899,5
+Jasper Ridge,RMSE,All,SVACA,0.2914,0.0567,5
+Jasper Ridge,RMSE,All,SRViT,0.2113,0.0215,5
+Jasper Ridge,RMSE,All,ERRNet,0.0921,0.0208,5
+Urban,SAD,Asphalt,MiSiCNet,1.2048,0.0077,5
+Urban,SAD,Asphalt,ADMM,0.2111,0.0304,5
+Urban,SAD,Asphalt,EGU-Net,0.4444,0.1554,5
+Urban,SAD,Asphalt,SVACA,0.72,0.2534,5
+Urban,SAD,Asphalt,SRViT,0.3099,0.1537,5
+Urban,SAD,Asphalt,ERRNet,0.1438,0.0807,5
+Urban,SAD,Grass,MiSiCNet,0.3521,0.0126,5
+Urban,SAD,Grass,ADMM,0.3944,0.1335,5
+Urban,SAD,Grass,EGU-Net,0.5558,0.2477,5
+Urban,SAD,Grass,SVACA,0.5611,0.1101,5
+Urban,SAD,Grass,SRViT,0.4378,0.085,5
+Urban,SAD,Grass,ERRNet,0.1383,0.023,5
+Urban,SAD,Tree,MiSiCNet,0.2329,0.0014,5
+Urban,SAD,Tree,ADMM,0.6992,0.1505,5
+Urban,SAD,Tree,EGU-Net,0.6157,0.3126,5
+Urban,SAD,Tree,SVACA,0.5331,0.0858,5
+Urban,SAD,Tree,SRViT,0.1357,0.0265,5
+Urban,SAD,Tree,ERRNet,0.1585,0.0068,5
+Urban,SAD,Roof,MiSiCNet,0.1966,0.0017,5
+Urban,SAD,Roof,ADMM,0.3527,0.1007,5
+Urban,SAD,Roof,EGU-Net,0.5707,0.3078,5
+Urban,SAD,Roof,SVACA,0.9291,0.1441,5
+Urban,SAD,Roof,SRViT,0.3065,0.0226,5
+Urban,SAD,Roof,ERRNet,0.0776,0.0796,5
+Urban,SAD,Metal,MiSiCNet,0.4372,0.0128,5
+Urban,SAD,Metal,ADMM,0.2864,0.0637,5
+Urban,SAD,Metal,EGU-Net,0.5168,0.206,5
+Urban,SAD,Metal,SVACA,0.7915,0.088,5
+Urban,SAD,Metal,SRViT,0.6623,0.277,5
+Urban,SAD,Metal,ERRNet,0.091,0.1429,5
+Urban,SAD,Dirt,MiSiCNet,0.3162,0.0008,5
+Urban,SAD,Dirt,ADMM,0.152,0.0539,5
+Urban,SAD,Dirt,EGU-Net,0.4392,0.1207,5
+Urban,SAD,Dirt,SVACA,0.679,0.1288,5
+Urban,SAD,Dirt,SRViT,0.2117,0.2772,5
+Urban,SAD,Dirt,ERRNet,0.2285,0.0629,5
+Urban,Mean SAD,All,MiSiCNet,0.4566,0.0056,5
+Urban,Mean SAD,All,ADMM,0.3493,0.0203,5
+Urban,Mean SAD,All,EGU-Net,0.5238,0.2122,5
+Urban,Mean SAD,All,SVACA,0.7023,0.0951,5
+Urban,Mean SAD,All,SRViT,0.344,0.0862,5
+Urban,Mean SAD,All,ERRNet,0.1396,0.0096,5
+Urban,RMSE,All,MiSiCNet,0.2201,0.0009,5
+Urban,RMSE,All,ADMM,0.382,0.0582,5
+Urban,RMSE,All,EGU-Net,0.3085,0.0696,5
+Urban,RMSE,All,SVACA,0.5107,0.07,5
+Urban,RMSE,All,SRViT,0.2642,0.0249,5
+Urban,RMSE,All,ERRNet,0.0992,0.0273,5

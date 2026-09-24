@@ -1,0 +1,7 @@
+﻿dataset,metric,ERRNet,best_baseline,best_baseline_method,relative_reduction_percent
+Samson,mSAD,0.0351,0.1208,SRViT,70.9
+Samson,RMSE,0.0361,0.235,SRViT,84.6
+Jasper Ridge,mSAD,0.1033,0.2986,MiSiCNet,65.4
+Jasper Ridge,RMSE,0.0921,0.1586,MiSiCNet,41.9
+Urban,mSAD,0.1396,0.344,SRViT,59.4
+Urban,RMSE,0.0992,0.2201,MiSiCNet,54.9

@@ -1,0 +1,31 @@
+﻿dataset,metric,material,method,mean,std,n_runs
+Samson,SAD,Soil,MiSiCNet,0.709,0.0014,5
+Samson,SAD,Soil,ADMM,0.0736,0.0017,5
+Samson,SAD,Soil,EGU-Net,0.2273,0.0707,5
+Samson,SAD,Soil,SVACA,0.1493,0.0441,5
+Samson,SAD,Soil,SRViT,0.1196,0.0174,5
+Samson,SAD,Soil,ERRNet,0.0126,0.0149,5
+Samson,SAD,Tree,MiSiCNet,0.1374,0.0002,5
+Samson,SAD,Tree,ADMM,0.0605,0.0026,5
+Samson,SAD,Tree,EGU-Net,0.3301,0.0746,5
+Samson,SAD,Tree,SVACA,0.0411,0.0068,5
+Samson,SAD,Tree,SRViT,0.0642,0.0037,5
+Samson,SAD,Tree,ERRNet,0.0402,0.0032,5
+Samson,SAD,Water,MiSiCNet,0.5672,0.0007,5
+Samson,SAD,Water,ADMM,0.2572,0.0003,5
+Samson,SAD,Water,EGU-Net,0.7297,0.1036,5
+Samson,SAD,Water,SVACA,0.4927,0.0977,5
+Samson,SAD,Water,SRViT,0.1785,0.0434,5
+Samson,SAD,Water,ERRNet,0.0526,0.0072,5
+Samson,Mean SAD,All,MiSiCNet,0.4712,0.0002,5
+Samson,Mean SAD,All,ADMM,0.1304,0.0002,5
+Samson,Mean SAD,All,EGU-Net,0.429,0.034,5
+Samson,Mean SAD,All,SVACA,0.2277,0.0337,5
+Samson,Mean SAD,All,SRViT,0.1208,0.0196,5
+Samson,Mean SAD,All,ERRNet,0.0351,0.0054,5
+Samson,RMSE,All,MiSiCNet,0.2975,0.0013,5
+Samson,RMSE,All,ADMM,0.2406,0.0063,5
+Samson,RMSE,All,EGU-Net,0.2996,0.1227,5
+Samson,RMSE,All,SVACA,0.2996,0.0358,5
+Samson,RMSE,All,SRViT,0.235,0.0103,5
+Samson,RMSE,All,ERRNet,0.0361,0.0021,5
